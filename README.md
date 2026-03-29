@@ -1,8 +1,8 @@
 # axe-core-accessibility
 
-> **GitHub repo description:** Accessibility test suite using Playwright + axe-core — WCAG 2.0/2.1/2.2 automated checks against OrangeHRM Demo with HTML reporting and CI/CD.
+Accessibility test suite using Playwright + axe-core — WCAG 2.0/2.1/2.2 automated checks against OrangeHRM Demo with HTML reporting and CI/CD.
 
-A professional-grade automated accessibility testing suite using `@axe-core/playwright` and Playwright Test. Demonstrates enterprise patterns: WCAG level parameterisation, impact-based filtering, region-scoped scanning, reusable axe helper utilities, and structured failure messages that link directly to WCAG documentation.
+Accessibility testing suite using `@axe-core/playwright` and Playwright Test. Demonstrates enterprise patterns: WCAG level parameterisation, impact-based filtering, region-scoped scanning, reusable axe helper utilities, and structured failure messages that link directly to WCAG documentation.
 
 ## Tech Stack
 
